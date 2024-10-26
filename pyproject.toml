@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "emptycopy"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI-tool for creating a complete copy of a directory and all it's subdirectories but with all files empty."
 authors = ["Josef Anhede <josefanhede@gmail.com>"]
 readme = "README.md"
