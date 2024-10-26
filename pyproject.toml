@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "emptycopy"
+version = "0.1.0"
+description = "A CLI-tool for creating a complete copy of a directory and all it's subdirectories but with all files empty."
+authors = ["Josef Anhede <josefanhede@gmail.com>"]
+readme = "README.md"
+license = "GPL-3.0-or-later"
+
+[tool.poetry.scripts]
+emptycopy = "emptycopy.cli:cli"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
