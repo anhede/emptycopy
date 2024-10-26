@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" align="center" src="./emptycopy.png" alt="Emptycopy logo">
+    <img width="200" align="center" src="https://raw.githubusercontent.com/anhede/emptycopy/refs/heads/main/emptycopy.png" alt="Emptycopy logo">
 </p>
 <h1 align="center">Emptycopy</h1>
 Emptycopy is a Python CLI-tool that copies the contents of a folder and it's subfolder but leaves the files empty. It's useful for generating folder hierarchies for code tests or for examining how a command will affect a folder without actually changing the files.
