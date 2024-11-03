@@ -63,4 +63,4 @@ poetry run emptycopy --help # Run the tool!
 ```
 
 ## License
-Emptycopy is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+Emptycopy is licensed under the GPL-3.0-or-later License. See [LICENSE](LICENSE) for more information.
